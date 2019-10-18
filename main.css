@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+body {
+    background-color: rgb(195, 210, 230);
+}
+h1 {
+    color: orangered;
+    margin-left: 22px;
+}
+p{
+    color: darkblue;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    box-sizing: border-box;
+    padding: 25px;
+    width: 1200px;
+}
+h2, h3{
+    color: #054703;
+    margin-left: 22px;
+}
+button {
+    background-color: rgb(50, 71, 114);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 08%;
+  }
+.button1 {
+    background-color: rgb(30, 87, 58);
+}
+.button2 {
+    background-color: rgb(116, 114, 5)
+}
+.button3 {
+    background-color: rgb(89, 61, 165)
+}
+.background-color1 {
+    background-color: rgb(179, 223, 197);
+}
+.background-color2 {
+    background-color: rgb(227, 228, 163);
+}
+.background-color3 {
+    background-color: rgb(220, 190, 228);
